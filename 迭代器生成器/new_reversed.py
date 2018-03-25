@@ -1,6 +1,6 @@
 #coding=utf-8
 
-# 使用reversed生成反向可迭代对象
+# 使用reversed生成反向可迭代对象（生成器）
 
 
 class FloatRange(object):
